@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="config" uuid="66742303-372e-4ce2-a9b9-7217fdc4ddbd">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>jdbc.properties
+
+D:/devSoft/IDEA2023.2/IdeaProjects/cloud2024/mybatis_generator2024/src/main/resources/config.properties</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/seata_storage?characterEncoding=utf8&amp;useSSL=false&amp;serverTimezone=GMT%2B8&amp;rewriteBatchedStatements=true&amp;allowPublicKeyRetrieval=true</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="cloud-provider-payment8001/Hibernate" uuid="6c187f0a-1524-4946-a4be-48f4fc6786da">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/db2024?characterEncoding=utf8&amp;useSSL=false&amp;serverTimezone=GMT%2B8&amp;rewriteBatchedStatements=true&amp;allowPublicKeyRetrieval=true</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="cloud-provider-payment8002/Hibernate" uuid="88a5d5bf-e6ce-47b3-98ea-655414fce4ed">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/db2024?characterEncoding=utf8&amp;useSSL=false&amp;serverTimezone=GMT%2B8&amp;rewriteBatchedStatements=true&amp;allowPublicKeyRetrieval=true</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
